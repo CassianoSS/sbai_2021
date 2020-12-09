@@ -54,3 +54,9 @@ p {
     font-family: 'Ruluko', sans-serif;
     font-size: 15px;
 }
+
+#data_i {
+    font-family: 'Ruluko', sans-serif;
+    font-size: 28px;
+    font-style: italic;
+}
